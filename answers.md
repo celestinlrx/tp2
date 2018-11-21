@@ -5,7 +5,8 @@ Prénom: Célestin
 NB: 5
 
 ## 1.3
-command: 
+command: docker build -t tp2 back
+
 
 ## 1.4
 answer:
